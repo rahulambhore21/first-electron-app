@@ -1,0 +1,33 @@
+.hero{
+    margin: 0 100px;
+}
+
+.herotext{
+    font-size: 60px;
+    color: white;
+}
+
+.heroExplorer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: black;
+    font-size: 30px;
+    gap: 40px;
+    background-color: aliceblue;
+    border-radius: 50px;
+    width: fit-content;
+    padding: 0px 20px;
+}
+.dot-play{
+    display: flex;
+    align-items: center;
+    font-size: 110px;
+    cursor: pointer;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.orange{
+    color: orange;
+}
