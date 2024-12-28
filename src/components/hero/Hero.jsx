@@ -11,7 +11,7 @@ function Hero({heroData, heroCount, setHeroCount, setPlayStatus, playStatus}) {
         <p >{heroData.text2}</p>
     </div>
     <div className="heroExplorer">
-        <p>Explore The Features</p>
+        <p>Ok this is change in thtis</p>
         <img src={arrow}/>
     </div>
     <div className="dot-play">
